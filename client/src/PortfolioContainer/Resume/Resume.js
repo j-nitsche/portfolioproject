@@ -94,7 +94,7 @@ const Resume = (props) => {
           heading = {"Julius-Maximilians-Universität Würzburg, Germany"}
           subHeading = {"M.Sc. Computer Science with focus on: Human Computer Interaction"}
           fromDate = {"2019"}
-          toDate = {"2022"}
+          toDate = {"2025"}
       />
 
       <ResumeHeading
